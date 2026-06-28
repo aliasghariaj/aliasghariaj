@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @aliasghariaj
-- 👀 I’m interested in Music
-- 🌱 I’m currently learning Music and Software Engineering
-- 💞️ I’m looking to collaborate on Audio Engineering
-- 📫 How to reach me: https://wlo.link/@alimusicaj
+````md
+# Hi there 👋 I'm Ali Asghari
 
-<!---
-aliasghariaj/aliasghariaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```cpp
+Musician();
+AudioEngineer();
+SoftwareEngineer();
+LinuxUser();
+OpenSourceEnthusiast();
+````
+
+### About me
+
+* 🎸 Musician & Producer
+* 🎚️ Audio Recording • Mixing • Mastering
+* 💻 Software Engineer
+* 🐧 Linux & Self-hosted Infrastructure
+* 🤖 Automation & Bots
+* 🎛️ Interested in Audio DSP and Music Technology
+
+### Tech Stack
+
+* Python
+* JavaScript / Node.js
+* Linux
+* Docker
+* Git
+* Nginx
+* SQL
+
+### Audio
+
+* FL Studio
+* Cubase
+* Reaper
+* Waves
+* FabFilter
+* iZotope
+
+### Currently
+
+* 🎵 Producing music with Madhoush (Dance-Punk Band) www.Madhoush.com
+* 🚀 Building software tools for musicians
+* 🌱 Learning more about DevOps & Audio DSP
+
+### Contact
+
+🌐 https://yek.link/athewhitedragon
+
+```
+```
